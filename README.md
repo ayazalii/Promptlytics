@@ -1,7 +1,7 @@
 # 📊 Promptlytics — Natural Language to Dashboards
 
 > **Promptlytics** converts plain-English business questions into interactive Plotly dashboards — no SQL knowledge required.  
-> Built as a minor project at JECRC University (B.Tech CSE — AI/ML), under the supervision of Mr. Mohd. Talib (Xebia).
+
 
 ---
 
