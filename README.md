@@ -18,14 +18,6 @@
 
 ---
 
-## 🖥️ Screenshots
-
-| Monthly Revenue Trend (Line) | Quantity by Product (Pie) | Region Sales (Bar) |
-|---|---|---|
-| ![line](assets/screenshot_line.png) | ![pie](assets/screenshot_pie.png) | ![bar](assets/screenshot_bar.png) |
-
----
-
 ## 🛠️ Tech Stack
 
 - **UI**: [Gradio 4](https://gradio.app) — Blocks API with custom dark-indigo CSS
@@ -161,7 +153,6 @@ The rule-based engine (mock LLM) classifies each query into one of four intent t
 | Name | Role |
 |---|---|
 | Ayaz Ali | Developer |
-| Chinmay Suthar | Developer |
 | Mr. Mohd. Talib (Xebia) | Supervisor |
 
 ---
@@ -169,4 +160,3 @@ The rule-based engine (mock LLM) classifies each query into one of four intent t
 ## 📄 License
 
 This project was developed for academic purposes at JECRC University.  
-Feel free to fork and build on it.
