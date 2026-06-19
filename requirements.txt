@@ -1,0 +1,12 @@
+# Promptlytics — NL2Dashboards
+# Core dependencies (rule-based engine + UI + charts)
+gradio==4.44.1
+plotly==5.22.0
+pandas==2.2.2
+nltk==3.8.1
+
+# OpenAI path (optional — only needed if you provide an API key in the UI)
+openai==1.40.0
+
+# Database (stdlib sqlite3 is used; no extra install needed)
+# Data generation (stdlib random/datetime; no extra install needed)
