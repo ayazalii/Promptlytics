@@ -155,8 +155,4 @@ The rule-based engine (mock LLM) classifies each query into one of four intent t
 | Ayaz Ali | Developer |
 | Mr. Mohd. Talib (Xebia) | Supervisor |
 
----
-
-## 📄 License
-
-This project was developed for academic purposes at JECRC University.  
+--- 
