@@ -1,11 +1,11 @@
-# 📊 Promptlytics — Natural Language to Dashboards
+# Promptlytics — Natural Language to Dashboards
 
 > **Promptlytics** converts plain-English business questions into interactive Plotly dashboards — no SQL knowledge required.  
 
 
 ---
 
-## ✨ Features
+##  Features
 
 | Feature | Detail |
 |---|---|
@@ -18,7 +18,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **UI**: [Gradio 4](https://gradio.app) — Blocks API with custom dark-indigo CSS
 - **NLP**: Rule-based keyword engine built with [NLTK](https://nltk.org)
@@ -29,7 +29,7 @@
 
 ---
 
-## 🏗️ Project Architecture
+##  Project Architecture
 
 ```
 promptlytics/
@@ -80,7 +80,7 @@ Raw Query
 
 ---
 
-## 🚀 Setup & Run
+##  Setup & Run
 
 ### 1. Clone the repository
 ```bash
@@ -135,7 +135,7 @@ Open [http://localhost:7860](http://localhost:7860) in your browser.
 
 ---
 
-## 🧠 Intent Classification Rules
+##  Intent Classification Rules
 
 The rule-based engine (mock LLM) classifies each query into one of four intent types:
 
@@ -148,7 +148,7 @@ The rule-based engine (mock LLM) classifies each query into one of four intent t
 
 ---
 
-## 👥 Team
+##  Team
 
 | Name | Role |
 |---|---|
